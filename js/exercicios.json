@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "linkVideo": "https://www.youtube.com/embed/nIHq1MtJaKs?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/nIHq1MtJaKs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAd29sYH3dh07yMmlGr7eh3jhaQHA",
+        "titulo": "1. Deixando tudo pronto"
+    },
+    {
+        "id": 2,
+        "linkVideo": "https://www.youtube.com/embed/FNqdV5Zb_5Q?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/FNqdV5Zb_5Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_mjgLHnHqhgY6k68HnGXRMWJdIA",
+        "titulo": "2. Respondendo ao usuário"
+    },
+    {
+        "id": 3,
+        "linkVideo": "https://www.youtube.com/embed/PB254Cfjlyk?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/PB254Cfjlyk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDfXy0PIsNapVWpeSZ10Q89ek53fg",
+        "titulo": "3. Somando dois números"
+    },
+    {
+        "id": 4,
+        "linkVideo": "https://www.youtube.com/embed/tHYxjJxtJko?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/tHYxjJxtJko/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLADg5u2ShXF-NqlFxqFWo_u22zPOQ",
+        "titulo": "4. Dissecando uma variável"
+    },
+    {
+        "id": 5,
+        "linkVideo": "https://www.youtube.com/embed/664e0G_S9nU?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/664e0G_S9nU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD7oA1wZobwbN7urHt4TlRzNa9IbA",
+        "titulo": "5. Antecessor e sucessor"
+    },
+    {
+        "id": 6,
+        "linkVideo": "https://www.youtube.com/embed/mqcNw_dhl8I?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/mqcNw_dhl8I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsmoUcroemL8KG8Vt2n6xr1DNRGQ",
+        "titulo": "6. Dobro, triplo, raiz quadrada"
+    },
+    {
+        "id": 7,
+        "linkVideo": "https://www.youtube.com/embed/_QfISzy0IKs?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/_QfISzy0IKs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBK1qjRLRoZekL3iT9tTUd6Dr2eMQ",
+        "titulo": "7. Média aritimética"
+    },
+    {
+        "id": 8,
+        "linkVideo": "https://www.youtube.com/embed/KjcdG05EAZc?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/KjcdG05EAZc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDYnR2j3VwDvJstOb2dN8nYAK--3Q",
+        "titulo": "8. Conversor de medidas"
+    },
+    {
+        "id": 9,
+        "linkVideo": "https://www.youtube.com/embed/qajq3SI0QQs?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/qajq3SI0QQs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCicdntc_kI70yvQizX8EAqOd29Qg",
+        "titulo": "9. Tabuada"
+    },
+    {
+        "id": 10,
+        "linkVideo": "https://www.youtube.com/embed/xM4AX3Lp2mo?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/xM4AX3Lp2mo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAPYJOvG2RVVX7FrjGvaa1LmTObYQ",
+        "titulo": "10. Conversor de moedas"
+    }
+]

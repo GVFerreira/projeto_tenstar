@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "linkVideo": "https://www.youtube.com/embed/S9uPNppGsGo?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/S9uPNppGsGo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD3tGH0TqvdXHXJeCZuWGqjbWULig",
+        "titulo": "1. Seja um programador"
+    },
+    {
+        "id": 2,
+        "linkVideo": "https://www.youtube.com/embed/Mp0vhMDI7fA?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/Mp0vhMDI7fA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA3p6DNVLtIPq4BhXhakkvJTBVMrg",
+        "titulo": "2. Pra que serve o python?"
+    },
+    {
+        "id": 3,
+        "linkVideo": "https://www.youtube.com/embed/VuKvR1J2LQE?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/VuKvR1J2LQE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPwPMAlA5lh_L0-UMNkTYZ4CaJpg",
+        "titulo": "3. Instalando Python 3 e IDLE"
+    },
+    {
+        "id": 4,
+        "linkVideo": "https://www.youtube.com/embed/31llNGKWDdo?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/31llNGKWDdo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNd4MsDCBPwG4KibDY-YBpDgTUew",
+        "titulo": "4. Primeiros comandos em Python3"
+    },
+    {
+        "id": 5,
+        "linkVideo": "https://www.youtube.com/embed/ElRd0cbXIv4?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/ElRd0cbXIv4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgTNfGe-7Wzsvkcl55dWi_CXXJ7w",
+        "titulo": "5. Instalando o Pycharm e QPython3"
+    },
+    {
+        "id": 6,
+        "linkVideo": "https://www.youtube.com/embed/hdDHg1p3YVc?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/hdDHg1p3YVc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCRtQccC8Pylu0-zC0KmaBjyM9Tbg",
+        "titulo": "6. Tipos primitivos e saída de dados"
+    },
+    {
+        "id": 7,
+        "linkVideo": "https://www.youtube.com/embed/Vw6gLypRKmY?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/Vw6gLypRKmY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBBlf_SytEXC0lClOEK3EyZ4sksKg",
+        "titulo": "7. Operadores aritiméticos"
+    },
+    {
+        "id": 8,
+        "linkVideo": "https://www.youtube.com/embed/oOUyhGNib2Q?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/oOUyhGNib2Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2Sk_EoZgJ3z_uIkSPyMPTZ5mH3A",
+        "titulo": "8. Utilizando módulos"
+    },
+    {
+        "id": 9,
+        "linkVideo": "https://www.youtube.com/embed/a7DH88vk2Sk?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/a7DH88vk2Sk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDM71j05pPCA5htUtvBXbFL_THEw",
+        "titulo": "9. Manipulando textos"
+    },
+    {
+        "id": 10,
+        "linkVideo": "https://www.youtube.com/embed/K10u3XIf1-Q?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+        "thumbnail": "https://i.ytimg.com/vi/K10u3XIf1-Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCYGd0FDdUiCGizwICcKBws6Wm3jA",
+        "titulo": "10. Condições"
+    }
+]

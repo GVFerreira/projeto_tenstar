@@ -1,0 +1,158 @@
+/* fonte do site */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+/* Configurações inciais  */
+
+* {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+     text-decoration: none;
+     font-family: 'Roboto', sans-serif;
+}
+
+img {
+     max-width: 100%;
+     height: auto;
+}
+
+
+/* Paleta de cores */
+
+:root {
+     --cor-0: #1B1A17;
+     --cor-1: #395144;
+     --cor-2: #4E6C50;
+     --cor-3: #AA8B56;
+     --cor-4: #F0EBCE;
+}
+ 
+.container {    
+     display: flex;
+     align-items: center;
+}
+
+.fundo {
+     width: 70vw;
+     height: 100vh;
+     background-image: url(fundo-login.png);
+     background-size: cover;
+     background-repeat: no-repeat, repeat;
+}
+
+.logo-color-1 {
+     color: var(--cor-3);
+     font-weight: 700;
+     font-size: 30px;
+}
+
+.logo-color-2 {
+     color: #fff;
+     font-weight: 700;
+     font-size: 30px;
+}
+
+.formulario {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: flex-start;
+     height: 100vh;
+     width: 30vw;
+     padding: 170px 0;
+     background-color: #395144;
+     box-shadow: -1px 0 30px #303030;
+}
+
+.formulario h2 {
+     font-size: 30px;
+     margin-top: 20%;
+}
+
+#formulario {
+     background-color: var(--cor-1);
+     border-radius: 10px;
+}
+
+.titulo-formulario {
+     color: #fff;
+     font-size: 30px;
+}
+
+.input-formulario {
+     border-radius: 5px;
+     border: 2px var(--cor-3) solid;
+     padding: 10px;
+     margin: 30px 0px 12px -5px;
+}
+
+.input-formulario i {
+     font-size: 20px;
+     padding: 5px;
+     background: #fff;
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+}
+
+.input-formulario input {
+     width: 80%;
+     border: none;
+     outline: none;
+     background-color: transparent;
+     font-size: 20px;
+     font-weight: 700;
+     color: #fff;
+}
+
+.input-formulario input::-webkit-input-placeholder {
+     color: #fff;
+     font-weight: 300;
+}
+
+
+#inscricao-btn {
+     margin-top: 10%;
+     width: 100%;
+     text-align: center;
+}
+
+#inscricao-btn button {
+     font-size: 30px;
+     background-color: var(--cor-4);
+     color: var(--cor-1);
+     border: none;
+     border-radius: 10px;
+     width: 100%;
+     height: 70px;
+     font-weight: 700;
+     outline: none;
+     cursor: pointer;
+}
+
+#inscricao-btn button:hover {
+     color: #FCF7D9;
+     background-color: var(--cor-3);
+     transition: 0.4s;
+
+}
+
+.itens-formulario {
+     color: #fff;
+     font-weight: 700;
+}
+
+.copyright {
+     margin-top: 45%;
+     color: #fff;
+}
+
+#invalido {
+     opacity: 0;
+     padding: .5rem 1rem;
+}
+
+@media (max-width: 100rem) {
+     .formulario {
+          width: 100vw;
+     }
+}

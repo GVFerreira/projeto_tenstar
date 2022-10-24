@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
+     
+     <link rel="stylesheet" type="text/css" href="./css/login.css">
+     <script src="https://kit.fontawesome.com/baecbeb80d.js" crossorigin="anonymous"></script>
+
+     <title>Portal de Acesso</title>
+
+</head>
+<body>
+    <div class="container">
+        <div class="fundo" style="background-image: url(fundo-login.png);">
+
+        </div>
+        <div class="formulario">
+            <a href="index.html"  class="logo-color-2"><span class="logo-color-1">Ten</span>Star 1.0</a>
+            <h2 class="titulo-formulario">Log in</h2>
+
+            <form action="" method="POST">
+                <div class="input-formulario">
+                     <i class="fa-solid fa-user"></i>
+                     <input id="usuario-formulario" placeholder="E-mail" name="username" type="text">
+                </div>
+                
+                
+                <div class="input-formulario">
+                        <i class="fa-solid fa-lock"></i>
+                     <input id="senha-formulario" name="senha" placeholder="Senha" type="password">
+                </div>
+        
+                
+                <div id="inscricao-btn">
+                     <button id="enviar" type="button" value="Enviar">Entrar</button>
+                </div>
+           </form>
+           <p id="invalido">Dados inválidos</p>
+           <span class="copyright">© 2022 Todos os direitos reservados</span>
+        </div>
+    </div>  
+</body>
+
+<script>
+
+     function login() {
+         //capturando elemento
+         const nome = document.getElementById('usuario-formulario')
+         const senha = document.getElementById('senha-formulario')
+         const invalido = document.getElementById('invalido')
+ 
+         //dados do acesso
+         const loginBE = ['ADMIN', 'ADMIN']
+         const nomeValor = nome.value.toUpperCase()
+         const senhaValor = senha.value.toUpperCase()
+ 
+         //verificação para ver se os valores informados no campo, coincidem com os valores do array
+         if (nomeValor === loginBE[0] && senhaValor === loginBE[1]) {
+             window.location.href = './aulas/videos.html'   
+         } else {
+ 
+             //estilizando a mensagem
+             invalido.style.display = 'flex'
+             invalido.style.textAlign = 'center'
+             invalido.style.color = '#FFF'
+             invalido.style.background = 'red'
+             invalido.style.borderEndStartRadius = '10px'
+             invalido.style.borderEndEndRadius = '10px'
+             invalido.style.padding = '.5rem 1rem'
+             invalido.style.opacity = '1'
+         }
+     }
+ 
+     const btnEnviar = document.getElementById('enviar')
+     btnEnviar.addEventListener('click', login)
+
+</script>
+</html>
