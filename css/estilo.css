@@ -661,4 +661,106 @@ nav {
           flex-wrap: wrap;
           gap: 13px;
      }
+
+     .texto-primario-inicio {
+          font-size: 30px;
+          text-align: center;
+     }
+
+     .descritivo-inicio {
+          font-size: 23px;
+          line-height: 30px;
+          text-align: center;
+     }
+
+     .titulo-formulario {
+          font-size: 25px;
+     }
+
+     #inscricao-btn button{
+          font-size: 25px;
+     }
+
+     #inscricao-btn button:hover{
+          font-size: 25px;
+     }
+
+     .input-formulario input::-webkit-input-placeholder {
+          color: #fff;
+          font-size: 17px;
+          font-weight: 300;
+     }
+
+     .texto-alternativo-inicio {
+          text-align: center;
+     }
+
+     .titulo-sobre-o-curso {
+          font-size: 30px;
+          text-align: center;
+     }
+
+     .desc-sobre-o-curso {
+          font-size: 23px;
+          line-height: 30px;
+          text-align: center;
+     }
+
+     #sobre-o-curso h2{
+          font-size: 20px;
+          text-align: center;
+     }
+
+     #sobre-o-curso img{
+          display: none;
+     }
+
+     .elementos-sob-o-curso {
+          font-size: 20px;
+          text-align: center;
+     }
+     
+     .topicos-curso h1{
+          font-size: 30px;
+     }
+
+     .desc-topico-curso {
+          font-size: 20px;
+          text-align: center;
+          padding: 0 60px 0 60px;
+     }
+
+     .card {
+          display: flex;
+          gap: 10px;
+          width: 90%;
+          flex-direction: column;
+          text-align: center;
+          justify-content: center;
+          align-items: center;
+     }
+
+     .preco h1{
+          font-size: 30px;
+     }
+
+     .text-dec, .valor-antigo {
+          font-size: 30px;
+     }
+
+     .novo-valor, .valor-novo {
+          font-size: 60px;
+     }
+
+     .valores {
+          display: flex;
+          flex-direction: column;
+     }
+
+     .barra-divisória {
+          height: 0.1px;
+          background-color: #1c2822;
+          width: 350px;
+          border: none;
+     }
 }

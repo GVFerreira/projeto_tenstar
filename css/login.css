@@ -35,9 +35,6 @@ img {
 .fundo {
      width: 70vw;
      height: 100vh;
-     background-image: url(fundo-login.png);
-     background-size: cover;
-     background-repeat: no-repeat, repeat;
 }
 
 .logo-color-1 {
@@ -142,7 +139,7 @@ img {
 }
 
 .copyright {
-     margin-top: 45%;
+     margin-top: 15vh;
      color: #fff;
 }
 
@@ -154,5 +151,8 @@ img {
 @media (max-width: 100rem) {
      .formulario {
           width: 100vw;
+     }
+     .fundo {
+          width: 0vw;
      }
 }
